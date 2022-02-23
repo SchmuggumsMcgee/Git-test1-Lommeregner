@@ -16,5 +16,5 @@ def divider(x,y):
 print()
 
 while True:
-    Vælg = input("Vælg hvad du gerne vil, ven. 1. 2. 3. eller 4.")
-    if Vælg 
+    choise = input("Vælg hvad du gerne vil, ven. 1. 2. 3. eller 4.")
+    if choise:
